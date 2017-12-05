@@ -1,0 +1,29 @@
+/* 登录页链接设置 */
+
+.login-other-link {
+    margin-top: 20px;
+}
+
+.login-other-link a {
+    margin-right: 12px;
+}
+
+/* 侧边导航二级列表图标 */
+
+.sidebar-menu .treeview-menu .fa {
+    transform: scale(0.5, 0.5);
+    width: 15px;
+}
+
+/* 无边框面板 */
+
+.box.no-border-top {
+    border-top: 0;
+    /* Adminlte的.box.box-solid类会影响到子元素边框的显示 */
+}
+
+/* 内容列表控制区域 */
+
+.box-controls {
+    padding: 5px;
+}
